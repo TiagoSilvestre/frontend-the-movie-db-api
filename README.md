@@ -10,3 +10,7 @@ Install the dependencies<br>
 start the server<br>
 `ng serve`<br>
 open the browser in the url that the application is runnig
+
+## Application running on Heroku
+
+https://frontend-the-movie-db.herokuapp.com/
