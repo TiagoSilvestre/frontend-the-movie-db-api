@@ -1,0 +1,12 @@
+.bannerImg{
+    height: 205px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+.movieContainer {
+    padding: 9px;
+}
+.centerBtn{
+    margin: 0 auto;
+}
